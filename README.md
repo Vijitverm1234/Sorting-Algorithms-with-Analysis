@@ -6,7 +6,7 @@ This README provides an overview of the time complexities (best, average, and wo
 
 ## Table of Contents
 
-<div align="center">
+<p align="center">
   <table>
     <tr>
       <th>Algorithm</th>
@@ -14,26 +14,26 @@ This README provides an overview of the time complexities (best, average, and wo
     </tr>
     <tr>
       <td>Insertion Sort</td>
-      <td><a href="#insertion-sort">Go to Section</a></td>
+      <td><a href="#1-insertion-sort">Go to Section</a></td>
     </tr>
     <tr>
       <td>Quick Sort</td>
-      <td><a href="#quick-sort">Go to Section</a></td>
+      <td><a href="#2-quick-sort">Go to Section</a></td>
     </tr>
     <tr>
       <td>Selection Sort</td>
-      <td><a href="#selection-sort">Go to Section</a></td>
+      <td><a href="#3-selection-sort">Go to Section</a></td>
     </tr>
     <tr>
       <td>Bubble Sort</td>
-      <td><a href="#bubble-sort">Go to Section</a></td>
+      <td><a href="#4-bubble-sort">Go to Section</a></td>
     </tr>
     <tr>
       <td>Shell Sort</td>
-      <td><a href="#shell-sort">Go to Section</a></td>
+      <td><a href="#5-shell-sort">Go to Section</a></td>
     </tr>
   </table>
-</div>
+</p>
 
 ---
 
@@ -102,5 +102,3 @@ Shell Sort is an extension of Insertion Sort that allows the exchange of far-apa
 - **log n**: The logarithmic function base 2
 
 ---
-
-
