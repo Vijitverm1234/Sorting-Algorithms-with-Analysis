@@ -3,14 +3,35 @@
 
 This README provides an overview of the time complexities (best, average, and worst cases) for commonly used sorting algorithms.
 
-## Table of Contents
 
-1. [Insertion Sort](#insertion-sort)
-2. [Quick Sort](#quick-sort)
-3. [Selection Sort](#selection-sort)
-4. [Bubble Sort](#bubble-sort)
-5. [Shell Sort](#shell-sort)
-
+<p align="center">
+  <table>
+    <tr>
+      <th>Algorithm</th>
+      <th>Link</th>
+    </tr>
+    <tr>
+      <td>Insertion Sort</td>
+      <td><a href="#insertion-sort">Go to Section</a></td>
+    </tr>
+    <tr>
+      <td>Quick Sort</td>
+      <td><a href="#quick-sort">Go to Section</a></td>
+    </tr>
+    <tr>
+      <td>Selection Sort</td>
+      <td><a href="#selection-sort">Go to Section</a></td>
+    </tr>
+    <tr>
+      <td>Bubble Sort</td>
+      <td><a href="#bubble-sort">Go to Section</a></td>
+    </tr>
+    <tr>
+      <td>Shell Sort</td>
+      <td><a href="#shell-sort">Go to Section</a></td>
+    </tr>
+  </table>
+</p>
 ---
 
 ## 1. Insertion Sort
