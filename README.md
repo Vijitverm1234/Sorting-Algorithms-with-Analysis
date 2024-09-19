@@ -6,7 +6,7 @@ This README provides an overview of the time complexities (best, average, and wo
 
 ## Table of Contents
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <th>Algorithm</th>
@@ -33,7 +33,7 @@ This README provides an overview of the time complexities (best, average, and wo
       <td><a href="#5-shell-sort">Go to Section</a></td>
     </tr>
   </table>
-</p>
+</div>
 
 ---
 
