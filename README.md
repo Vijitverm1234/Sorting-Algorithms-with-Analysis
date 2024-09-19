@@ -1,10 +1,12 @@
-
 # Sorting Algorithms Time Complexities
 
 This README provides an overview of the time complexities (best, average, and worst cases) for commonly used sorting algorithms.
 
+---
 
-<p align="center">
+## Table of Contents
+
+<div align="center">
   <table>
     <tr>
       <th>Algorithm</th>
@@ -31,7 +33,8 @@ This README provides an overview of the time complexities (best, average, and wo
       <td><a href="#shell-sort">Go to Section</a></td>
     </tr>
   </table>
-</p>
+</div>
+
 ---
 
 ## 1. Insertion Sort
@@ -100,6 +103,4 @@ Shell Sort is an extension of Insertion Sort that allows the exchange of far-apa
 
 ---
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
