@@ -32,6 +32,10 @@ This README provides an overview of the time complexities (best, average, and wo
       <td>Shell Sort</td>
       <td><a href="#5-shell-sort">Go to Section</a></td>
     </tr>
+        <tr>
+      <td>Topological Sort (DFS)</td>
+      <td><a href="#6-topoSort">Go to Section</a></td>
+    </tr>
   </table>
 </div>
 
@@ -102,6 +106,14 @@ Shell Sort is an extension of Insertion Sort that allows the exchange of far-apa
 - **log n**: The logarithmic function base 2
 
 ---
+## 6. Topological Sort (DFS)
+Topological Sort is an algorithm used for sorting vertices in a Directed Acyclic Graph (DAG). It orders vertices in such a way that for every directed edge u -> v, vertex u comes before vertex v in the ordering. This algorithm is based on Depth-First Search (DFS) and is especially useful for tasks like scheduling, dependency resolution, and more.
+
+| Case         | Time Complexity |
+|--------------|-----------------|
+| **Best**     | O(V + E)      |
+| **Average**  | O(V + E)    |
+| **Worst**    | O(V + E)          |
 
 
 ### Comparison of Sorting Algorithms
@@ -114,3 +126,4 @@ Shell Sort is an extension of Insertion Sort that allows the exchange of far-apa
 | **Merge Sort**    | O(n log n)            | O(n log n)               | O(n log n)              | O(n)             | Yes    |
 | **Quick Sort**    | O(n log n)            | O(n log n)               | O(n^2)                   | O(log n)         | No     |
 | **Heap Sort**     | O(n log n)            | O(n log n)               | O(n log n)              | O(1)             | No     |
+| **Topo Sort**     | O(E + V)            | O(E + V)               | O(E + V)              | O(V)             | No     |
